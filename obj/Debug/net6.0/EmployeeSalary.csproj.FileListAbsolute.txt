@@ -1,0 +1,14 @@
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\bin\Debug\net6.0\EmployeeSalary.exe
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\bin\Debug\net6.0\EmployeeSalary.deps.json
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\bin\Debug\net6.0\EmployeeSalary.runtimeconfig.json
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\bin\Debug\net6.0\EmployeeSalary.dll
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\bin\Debug\net6.0\EmployeeSalary.pdb
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\obj\Debug\net6.0\EmployeeSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\obj\Debug\net6.0\EmployeeSalary.AssemblyInfoInputs.cache
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\obj\Debug\net6.0\EmployeeSalary.AssemblyInfo.cs
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\obj\Debug\net6.0\EmployeeSalary.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\obj\Debug\net6.0\EmployeeSalary.dll
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\obj\Debug\net6.0\refint\EmployeeSalary.dll
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\obj\Debug\net6.0\EmployeeSalary.pdb
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\obj\Debug\net6.0\EmployeeSalary.genruntimeconfig.cache
+C:\dev\Udemy\CSharp\EmployeeSalary\EmployeeSalary\obj\Debug\net6.0\ref\EmployeeSalary.dll
